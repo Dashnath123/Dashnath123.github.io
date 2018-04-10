@@ -34,7 +34,9 @@
         "#333333"
       ]
     },
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
